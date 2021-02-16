@@ -36,5 +36,7 @@ managing a product, along with improving user experience and customer retention.
 
 
 </p>
-
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=nehachitkara&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/NehaChitkara/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=nehachitkara&layout=compact)](https://github.com/nehachitkara/github-readme-stats)
 
