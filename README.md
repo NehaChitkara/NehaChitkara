@@ -45,5 +45,14 @@ managing a product, along with improving user experience and customer retention.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NehaChitkara&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/NehaChitkara/Design-Patterns-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NehaChitkara&repo=design-patterns-java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/NehaChitkara/NodeJS-Boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NehaChitkara&repo=nodejs-boilerplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
 
 
