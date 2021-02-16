@@ -1,4 +1,4 @@
-<img src="./assets/img/header.jpg">
+<img src="./assets/img/header.gif">
 
 
 <!--Social Channel-->
